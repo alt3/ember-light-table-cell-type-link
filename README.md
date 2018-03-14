@@ -1,6 +1,8 @@
 ember-light-table-cell-type-link
 ==============================================================================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/alt3/ember-light-table-cell-type-link.svg)](https://greenkeeper.io/)
+
 [Short description of the addon.]
 
 Installation
