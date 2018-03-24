@@ -12,9 +12,15 @@
     "name": "0.0.1"
   },
   "latest": {
-    "sha": "1389254a8299e8ebdd143c6dabad15a7b65eef64",
-    "tag": "0.0.1",
+    "sha": "fdbbc0fa71feec5637e6df661293e58dc9527f9e",
+    "tag": "v0.0.1",
     "path": "latest",
     "name": "latest"
+  },
+  "v0.0.1": {
+    "sha": "fdbbc0fa71feec5637e6df661293e58dc9527f9e",
+    "tag": "v0.0.1",
+    "path": "v0.0.1",
+    "name": "v0.0.1"
   }
 }
