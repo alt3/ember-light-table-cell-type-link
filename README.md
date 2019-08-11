@@ -10,6 +10,8 @@
 
 Hyperlink cells for your Ember Light Tables.
 
+![Abandoned repository](./abandoned-repo.png "This repository is no longer maintained.")
+
 [Demo](https://alt3.github.io/ember-light-table-cell-type-link)
 
 [Documentation](https://alt3.github.io/ember-light-table-cell-type-link/latest/docs)
